@@ -1,8 +1,8 @@
 # Adafruit MPU6050 ![Build Status](https://github.com/adafruit/Adafruit_MPU6050/workflows/Arduino%20Library%20CI/badge.svg)
 
-This is the Adafruit MPU6050 6-DoF Accelerometer and Gyro Library for Arduino
+This is the Adafruit MPU6050 6-DoF Accelerometer and Gyro Library for Arduino, modified on fake versions with the 0x72 "WHO_AM_I" response.
 
-Tested and works great with the Adafruit MPU6050 Breakout Board 
+Tested and works great with the fake MPU6050 Breakout Board 
 
 <a href="https://www.adafruit.com/products/3886"><img src="assets/board.jpg?raw=true" width="500px"></a>
 
